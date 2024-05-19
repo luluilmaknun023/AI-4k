@@ -61,129 +61,7 @@
 
   "Data":
   [
-    {
-      "id":1,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A tranquil beach at sunset",
-      "image":"https://cdn.discordapp.com/attachments/1129923964643311740/1133944027675373578/2d77deed-f0aa-4eed-b9b4-7e41c23054de.jpg","lock":false
-    },
-    {
-      "id": 2,
-      "name_category": "AI Powered Wallpapers",
-      "title": "An enchanted forest with sunlight",
-      "image": "https://cdn.discordapp.com/attachments/1129923964643311740/1133944941274468504/e735e3e6-fa21-4d2d-a0f0-ec737d474822.jpg","lock":false
-    },
-    {
-      "id":3,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A starry night sky",
-      "image":"https://cdn.discordapp.com/attachments/1129923964643311740/1133945657397350421/64ef1bbd-52e2-4d97-b91a-6ae390ea93e5.jpg","lock":false
-    },
-    {
-      "id":4,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A vibrant cityscape",
-      "image":"https://cdn.discordapp.com/attachments/1129923964643311740/1133946223041187951/9f1fdae0-265d-4b12-85c4-35e1f41306bc.jpg","lock":false
-    }
-  ,
-    {
-      "id":5,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A serene mountain landscape",
-      "image":"https://cdn.discordapp.com/attachments/1129923964643311740/1133946688365674556/11c8a536-42aa-40d5-bb10-98db108e852a.jpg","lock":false
-    },
-    {
-      "id":6,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A whimsical underwater world",
-      "image":"https://cdn.discordapp.com/attachments/1129923964643311740/1133947410410913904/c16972cf-1b68-4a1b-8750-24ef605b9332.jpg","lock":false
-    },
-    {
-      "id": 7,
-      "name_category": "AI Powered Wallpapers",
-      "title": "A peaceful countryside scene",
-      "image": "https://cdn.discordapp.com/attachments/1129923964643311740/1133947790381285557/33b4b6e4-f42c-4d3b-a358-db4cd74eed5c.jpg","lock":false
-    },
-    {
-      "id":8,
-      "name_category": "AI Powered Wallpapers",
-      "title":"An abstract composition of bold colors and dynamic shapes",
-      "image":"https://cdn.discordapp.com/attachments/1129923964643311740/1133948245643624448/c568232f-5bca-4627-aca2-6a06ebd9c77a.jpg","lock":false
-    },
-    {
-      "id":9,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A magical garden",
-      "image":"https://cdn.discordapp.com/attachments/1129923964643311740/1133948633184739328/15977cdf-93af-4be1-8083-3fb5edc8f75f.jpg","lock":false
-    }
-  ,
-    {
-      "id":10,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A surreal dreamscape",
-      "image":"https://cdn.discordapp.com/attachments/1129923964643311740/1133949576051703878/d95c6cda-fd78-401d-8feb-e2d1c2bf7ec2.jpg","lock":false
-    },
-	{
-      "id":11,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A futuristic cityscape",
-      "image":"https://storage.googleapis.com/pai-images/128c5b3921e549d1834d8f0d5cf74936.png","lock":false
-    },
-    {
-      "id": 12,
-      "name_category": "AI Powered Wallpapers",
-      "title": "A majestic waterfall",
-      "image": "https://storage.googleapis.com/pai-images/0465ac1fd7034bbda91e092e0aef933d.png","lock":false
-    },
-    {
-      "id":13,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A cozy cabin",
-      "image":"https://storage.googleapis.com/pai-images/77c5fff802604608b7fca7c48c51fe6b.png","lock":false
-    },
-    {
-      "id":14,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A panoramic view of a sun kissed meadow",
-      "image":"https://storage.googleapis.com/pai-images/8b5fd3b3a113437c86d148ea30643586.png","lock":false
-    }
-  ,
-    {
-      "id":15,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A tranquil lakeside scene",
-      "image":"https://storage.googleapis.com/pai-images/2f0d8ee25ddd417e8cd18cbc192c8cfe.png","lock":false
-    },
-	{
-      "id":16,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A close up of delicate petals",
-      "image":"https://storage.googleapis.com/pai-images/25720231944b445aa5f4c6bbcaed4899.png","lock":false
-    },
-    {
-      "id": 17,
-      "name_category": "AI Powered Wallpapers",
-      "title": "An otherworldly desert landscape",
-      "image": "https://storage.googleapis.com/pai-images/9f87365b61954fddab9692a967a7eef1.png","lock":false
-    },
-    {
-      "id":18,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A celestial wonderland",
-      "image":"https://storage.googleapis.com/pai-images/062d5a8e3b14459199e8c68896e23956.png","lock":false
-    },
-    {
-      "id":19,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A vintage cityscape",
-      "image":"https://storage.googleapis.com/pai-images/4906ff2ae85a4455ae4c488e976c32df.png","lock":false
-    },
-    {
-      "id":20,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A surreal seascape",
-      "image":"https://storage.googleapis.com/pai-images/595847e2c9ce4827be9c7e4a4429ff8e.png","lock":false
-    },
+    
 	{
       "id":21,
       "name_category": "AI Powered Wallpapers",
@@ -214,18 +92,7 @@
       "title":"A breathtaking aerial view",
       "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/5513351a-70cf-4532-afa2-0af362951271/SDXL_09_A_breathtaking_aerial_view_of_a_tropical_paradise_with_0.jpg?w=512","lock":false
     },
-	{
-      "id":26,
-      "name_category": "AI Powered Wallpapers",
-      "title":"A whimsical fairytale castle",
-      "image":"https://storage.googleapis.com/pai-images/aed679493688443e98b24bd3ed211c3c.png","lock":false
-    },
-    {
-      "id": 27,
-      "name_category": "AI Powered Wallpapers",
-      "title": "An artistic abstract",
-      "image": "https://storage.googleapis.com/pai-images/741ab8a2c4c340a5ae8580e372b079a0.png","lock":false
-    },
+	
     {
       "id":28,
       "name_category": "AI Powered Wallpapers",
